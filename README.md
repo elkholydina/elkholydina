@@ -115,12 +115,7 @@ Every project I build is an opportunity to deepen my understanding of software e
 ## GitHub Stats
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elkholydina&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkholydina&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&border_color=222222" width="48%" />
-  </p>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=elkholydina&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&border=222222&dates=888888" />
+   <img src="https://streak-stats.demolab.com?user=elkholydina&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&border=222222&dates=888888" />
 </div>
 
 <br>
